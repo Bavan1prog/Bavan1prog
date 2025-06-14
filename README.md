@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bavan1prog
 - 👀 I’m interested in Coding and Gaming
-- 🌱 I’m currently learning Javascript and Html
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
